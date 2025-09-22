@@ -1,4 +1,4 @@
 # Glases-segmentation
 sveiki visi
 
-test
+test mano private a
